@@ -1,4 +1,4 @@
-![tribute-page](https://user-images.githubusercontent.com/105142693/210354117-875bf0d8-5049-4749-aa16-83f5f496d8c3.gif)
+(https://user-images.githubusercontent.com/105142693/210354117-875bf0d8-5049-4749-aa16-83f5f496d8c3.gif)
 #TRIBUTE PAGE
 
 #oasis infobyte intern project no. 2
@@ -17,4 +17,4 @@ Discover more about this project on this blog post where I tell you the story be
 Page - Final result of the project
 Design - Website design made in Photoshop
 
-https://user-images.githubusercontent.com/105142693/210353581-70771bb9-f82c-41ac-971e-86800de6fa00.gif
+(https://user-images.githubusercontent.com/105142693/210354117-875bf0d8-5049-4749-aa16-83f5f496d8c3.gif)
