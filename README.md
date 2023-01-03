@@ -1,3 +1,4 @@
+![tribute-page](https://user-images.githubusercontent.com/105142693/210354117-875bf0d8-5049-4749-aa16-83f5f496d8c3.gif)
 #TRIBUTE PAGE
 
 #oasis infobyte intern project no. 2
