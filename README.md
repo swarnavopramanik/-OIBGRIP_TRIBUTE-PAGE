@@ -1,4 +1,4 @@
-#tribute-page
+TRIBUTE PAGE
 
 A Steve Jobs tribute page as a Free Code Camp front-end project where I show some information about the Apple creator life. Made using HTML5, CSS3, Skeleton for code, and Photoshop for design.
 
