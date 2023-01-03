@@ -16,4 +16,4 @@ Discover more about this project on this blog post where I tell you the story be
 Page - Final result of the project
 Design - Website design made in Photoshop
 
-tribute-page](https://user-images.githubusercontent.com/105142693/210353581-70771bb9-f82c-41ac-971e-86800de6fa00.gif
+https://user-images.githubusercontent.com/105142693/210353581-70771bb9-f82c-41ac-971e-86800de6fa00.gif
