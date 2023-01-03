@@ -13,7 +13,7 @@ Design - Website design made in Photoshop
 
 #Intership Project TASk_2
 
-#Development
+Development
 
 Getting started
 
@@ -21,7 +21,7 @@ Enter in the repo directory in local by terminal
 Use the command: sudo python -m SimpleHTTPServer 80
 Open your browser with this address: http://localhost
 
-#Built with
+Built with
 
 HTML5
 CSS3
