@@ -28,3 +28,5 @@ CSS3
 Skeleton
 Photoshop
 Github Pages
+
+Deploy link : https://testimonial-site-1.netlify.app/
